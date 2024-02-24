@@ -1,12 +1,9 @@
-# City Game Studio official website
+# Fortune Avenue official website
 
-You are the founder of your video game company. The starting point belongs to you, in your garage, or think big instead of small by acquiring your first location. At the end of the day, your decisions will make your studio a success and will mark the Video Game History. 
+Fortune Avenue is an exciting multiplayer board game. Buy properties, build hotels and build monopolies across continents. Or ruin your opponents! 🎲 🏨 
 
 # Steam Page
-https://store.steampowered.com/app/726840/City_Game_Studio/
-
-# Itch.io
-https://binogure.itch.io/city-game-studio
+https://store.steampowered.com/app/1810050/Fortune_Avenue/
 
 # Discord
-https://discord.gg/citygamestudio
+https://discord.binogure-studio.com
