@@ -935,6 +935,7 @@
       new RSS(
         document.querySelector("#rss-feeds"),
         "https://store.steampowered.com/feeds/newshub/app/1810050/", {
+          ssl: true,
           layoutTemplate: "{entries}",
           entryTemplate:
               `<div class="rss-entry">
