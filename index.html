@@ -935,6 +935,7 @@
     jQuery(function($) {
       $("#rss-feeds").rss("https://store.steampowered.com/feeds/newshub/app/1810050", {
         ssl: true,
+        host: "feedrapp.info",
         layoutTemplate: "{entries}",
         entryTemplate:
           `<div class="rss-entry">
