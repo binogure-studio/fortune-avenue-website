@@ -12,7 +12,7 @@ body {
   padding: 0;
   margin: 0;
   font: 400 15px/1.8 sans-serif;
-  color: #e1f8ff;
+  color: #f4fdff;
   overflow-x: hidden;
   background-image: url("../images/background-motif.png");
   background-color: #e1f8ff;
@@ -27,12 +27,12 @@ body {
 }
 
 .text-content {
-  font-size: 17px;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
 .title {
-  font-size: 28px;
+  font-size: 2.2rem;
   font-family: Bold;
   font-weight: bolder;
 }
@@ -43,12 +43,12 @@ body {
 
 .big-text {
   font-family: Bold;
-  font-size: 22px;
+  font-size: 1.8rem;
   text-align: center;
 }
 
 .subtitle {
-  font-size: 25px;
+  font-size: 2rem;
   font-family: Bold;
   font-weight: bold;
 }
@@ -82,7 +82,7 @@ body {
 .button {
   display: inline-block;
   font-variant: small-caps;
-  font-size: 22px;
+  font-size: 1.5rem;
   font-weight: bolder;
   color: #ffe0ef;
   text-decoration: none;
@@ -145,7 +145,7 @@ a {
 }
 
 .cover {
-  background-color: #26ccff;
+  background-color: #00bbf6;
   text-align: justify;
   position: relative;
 
@@ -271,7 +271,7 @@ a {
 }
 
 .newsletter-description {
-  font-size: 14px;
+  font-size: 1rem;
   letter-spacing: 1px;
   line-height: 1.3em;
   margin: -2px 0 45px;
@@ -300,7 +300,7 @@ a {
 
 .newsletter-confirm {
   margin-top: 24px;
-  font-size: 20px;
+  font-size: 1.8rem;
   letter-spacing: 1px;
   display: none;
 }
@@ -336,7 +336,7 @@ a {
   background-color: #003b4d;
   z-index: 3;
   min-height: 220px;
-  font-size: 26px;
+  font-size: 2rem;
   font-weight: 600; 
 }
 
@@ -347,7 +347,7 @@ a {
 
 .copyright {
   color: #d0f4ff;
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 .center-text {
@@ -377,44 +377,44 @@ a {
 
 @media only screen and (max-width: 800px) {
   .newsletter-confirm {
-    font-size: 14px;
+    font-size: 1rem;
   }
 
   .copyright {
-    font-size: 10px;
+    font-size: 1rem;
   }
 
   .newsletter-description {
-    font-size: 10px;
+    font-size: 1rem;
   }
 
 
   .title {
-    font-size: 20px;
+    font-size: 1.8rem;
     font-weight: bold;
   }
   
   .big-text {
-    font-size: 16px;
+    font-size: 1.8rem;
     text-align: center;
   }
   
   .subtitle {
-    font-size: 14px;
+    font-size: 1.2rem;
     font-weight: bold;
   }
 
   .text-content {
-    font-size: 12px;
+    font-size: 1.0rem;
     font-weight: bold;
   }
 
   .footer {
-    font-size: 15px;
+    font-size: 1.5rem;
   }
 
   .button {
-    font-size: 16px;
+    font-size: 1.5rem;
   }
 
   a {
@@ -574,7 +574,7 @@ a {
 }
 
 .rss-title {
-  font-size: 24px;
+  font-size: 2.0rem;
   line-height: 26px;
   color: #ffffff;
   font-weight: 500;
@@ -587,15 +587,15 @@ a {
   color: #909da7;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  font-size: 11px;
+  font-size: 1.0rem;
   line-height: 20px;
 }
 
 .rss-content {
-  font-size: 14px;
+  font-size: 1.2rem;
   font-weight: 300;
   line-height: 17px;
-  color: #a0afbb;
+  color: #f4fdff;
   word-wrap: break-word;
   word-break: break-word;
   margin-top: 8px;
