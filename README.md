@@ -1,6 +1,6 @@
 # Fortune Avenue official website
 
-Fortune Avenue is an exciting multiplayer board game. Buy properties, build hotels and build monopolies across continents. Or ruin your opponents! 🎲 🏨 
+A competitive board game where players vote to shape their destiny. Transform caravans into 5-star hotels, collect wonders, and earn bounties for bankrupting opponents. Use airports to outmaneuver rivals, organize World Cups to multiply your rent. Can you turn your empire into a global monopoly? 
 
 # Steam Page
 https://store.steampowered.com/app/1810050/Fortune_Avenue/
